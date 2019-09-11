@@ -1,0 +1,9 @@
+{
+"entity" : {
+"typeName" : "type2",
+
+"attributes":
+
+{ "name" : "player2", "type1" : "player2", "qualifiedName" : "player2@type2", "Averagescore":300 }
+}
+}

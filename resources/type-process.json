@@ -1,0 +1,17 @@
+{"enumDefs":[],"structDefs":[],"classificationDefs":[],"entityDefs":[{
+"category": "ENTITY",
+"createdBy": "Admin",
+"updatedBy": "Admin",
+"createTime": 1537261952180,
+"updateTime": 1537262097732,
+"version": 3,
+"name": "typeprocess",
+"description": "typeprocess",
+"typeVersion": "1.3",
+"attributeDefs": [],
+
+"superTypes": [
+"Process"
+],
+"subTypes": []
+}],"relationshipDefs":[]}

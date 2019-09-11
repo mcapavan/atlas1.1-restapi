@@ -1,0 +1,23 @@
+{"enumDefs":[],"structDefs":[],"classificationDefs":[],"entityDefs":[{
+"category": "ENTITY",
+"createdBy": "Admin",
+"updatedBy": "Admin",
+"createTime": 1537261952180,
+"updateTime": 1537262097732,
+"version": 3,
+"name": "type1",
+"description": "type1",
+"typeVersion": "1.3",
+"attributeDefs": [
+
+{ "name": "type1", "typeName": "string", "isOptional": true, "cardinality": "SINGLE", "valuesMinCount": 0, "valuesMaxCount": 1, "isUnique": false, "isIndexable": false, "includeInNotification": false }
+,
+
+{ "name": "Averagescore", "typeName": "int", "isOptional": false, "cardinality": "SINGLE", "valuesMinCount": 1, "valuesMaxCount": 1, "isUnique": false, "isIndexable": false, "includeInNotification": false }
+],
+
+"superTypes": [
+"DataSet"
+],
+"subTypes": []
+}],"relationshipDefs":[]}

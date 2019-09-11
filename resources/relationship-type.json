@@ -1,0 +1,20 @@
+{
+"relationshipDefs": [
+{
+"attributeDefs": [],
+"description": "default relationshipDef description with name: invalid_cat",
+"endDef1":
+
+{ "cardinality": "SINGLE", "description": "default", "isContainer": false, "isLegacyAttribute": true, "name": "1attribute", "type": "type1" }
+,
+"endDef2":
+
+{ "cardinality": "SET", "description": "default", "isContainer": false, "isLegacyAttribute": true, "name": "1attribute", "type": "type2" }
+,
+"name": "newlreln",
+"propagateTags": "ONE_TO_TWO",
+"relationshipCategory": "ASSOCIATION",
+"typeVersion": "1.0"
+}
+]
+}

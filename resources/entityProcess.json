@@ -1,0 +1,34 @@
+{
+  "referredEntities": {},
+  "entity": {
+    "typeName": "typeprocess",
+    "attributes": {
+      "owner": null,
+      "outputs": [
+        {
+          "guid": "8a33ba96-e69f-44d7-b567-6b3df4daa2d8",
+          "typeName": "type2"
+        }
+      ],
+      "qualifiedName": "finance.tax_2010@hdp:1547232657000",
+      "inputs": [
+        {
+          "guid": "afdf5e1e-0105-462e-ada4-58f0229733b8",
+          "typeName": "type1"
+        }
+      ],
+      "description": null,
+      "userName": "admin",
+      "clusterName": null,
+      "name": "myprocessname",
+      "startTime": 1547232657165,
+      "endTime": 1547232657429
+    },
+    "status": "ACTIVE",
+    "createdBy": "admin",
+    "updatedBy": "admin",
+    "createTime": 1547232721983,
+    "updateTime": 1547232721983,
+    "version": 0
+  }
+}
